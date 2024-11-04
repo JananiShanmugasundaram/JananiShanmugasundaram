@@ -1,4 +1,3 @@
-# Janani
 <div id="header" align="center">
   <h2> Hi 👋 I'm Janani.</h2>
 </div>
